@@ -1,0 +1,137 @@
+body{
+    margin: 0;
+}
+img{
+    width: 100%;
+}
+*{
+    font-family: open , sans-serif;
+}
+.principal{
+    padding: 4% 8%;
+    line-height: 21px;
+}
+.principal #logo{
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+.principal #logo img{
+    width: 43%;
+    margin-right: 5%;
+}
+.principal #logo > div{
+    height: 40px;
+}
+.principal #logo .color1{
+    display: flex;
+    background: linear-gradient(to right, rgba(255,255,255,1) 0%, rgba(0,70,105,1) 100%);
+    justify-content: flex-end;
+    align-items: center;
+    color: white;
+    width: 46%;
+    padding-right: 2%;
+}
+.principal #logo .color2{
+    background: #F47920;
+    width: 8px;
+}
+.principal #logo .color3{
+    width: 1%;
+    background: #F0B429;
+}
+h1, h2, h3, h4, h5, h6{
+    line-height: 30px;
+    text-align: center;
+    color: #F47920;
+}
+.efren{
+    display: none;
+}
+.efren1{
+    display: none;
+}
+.imagenes{
+    display: flex;
+    height: 302px;
+    width: 100%;
+}
+.imagenes > img{
+    height: 103px;
+    width: 33%;
+}
+.parraimg1{
+    text-align: end;
+}
+.parraimg2{
+    text-align: start;
+    margin-top: 0%;
+    font-size: 9px;
+}
+.parrafo1{
+    width: 50%;
+}
+.imagenes2 > img{
+    width: 100%;
+}
+.parrafo1 > .texto2{
+    width: 50%;
+}
+.parrafo1 .texto2 p{
+    width: 100%;
+    margin: 0;
+    font-size: 21.9px;
+    line-height: 19px;
+}
+.parrafo1{
+    display: flex;
+    gap: 20px;
+    width: 100%;
+}
+.tabla1, .tabla2{
+    display: flex;
+    justify-content: space-around;
+}
+.tabla2 {
+    align-items: center;
+}
+.tabla2 .uno21{
+    width: 50%;
+    text-align: center;
+}
+.tabla2 .uno22{
+    width: 50%;
+}
+.tabla2 .uno21 > p:nth-child(2){
+    padding: 10% 0;
+}
+.tabla1 h2{
+    margin: 0;
+}
+.p3f{
+    text-align: end;
+    margin: 0;
+}
+.imgp3{
+    display: flex;
+}
+.imgp3 > img{
+    width: 50%;
+}
+.tabla3, .tabla4{
+    display: flex;
+    justify-content: space-around;
+}
+.tabla3 > h5{
+    margin: 0;
+    font-size: 20px;
+}
+.tabla4{
+    align-items: center;
+}
+.tabla4 > div:nth-child(1){
+    text-align: center;
+}
+.tabla4 > div{
+    width: 50%;
+}

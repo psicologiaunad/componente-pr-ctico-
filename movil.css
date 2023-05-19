@@ -1,0 +1,638 @@
+@media (max-width: 349.98px){
+    *{
+        font-size: 13px;
+    }
+    .principal #logo > div{
+        height: 13px;
+    }
+    .principal #logo .color1 p{
+        font-size: 5px;
+    }
+    h1, h2, h3, h4, h5, h6{
+        font-size: 15px;
+        line-height: 17px;
+    }
+    .principal #logo .color2{
+        width: 3px;
+    }
+    .principal #logo .color3{
+        width: 2px;
+    }
+    .imagenes{
+        width: 100%;
+        height: 100px;
+    }
+    .imagenes > img{
+        height: 103px;
+        width: 33%;
+    }
+    .parraimg2 {
+        margin-top: -1%;
+        font-size: 7px;
+    }
+    .efren{
+        display: block;
+    }
+    .tabla2 .uno21 > p{
+        font-size: 9px;
+        line-height: 37px;
+    }
+    .tabla2 .uno22 > p{
+        font-size: 9px;
+        line-height: 11px;
+    }
+    .tabla2 .uno21 > p:nth-child(2) {
+        margin: 53% 0;
+        padding: 0;
+    }
+    .p3f {
+        font-size: 8px;
+    }
+    .tabla4 > div:nth-child(2) p{
+        font-size: 5px;
+        line-height: 6px;
+    }
+    .principal {
+        line-height: 21px;
+    }
+}
+@media (min-width:350px) and (max-width: 449.98px){
+    *{
+        font-size: 16px;
+    }
+    .principal #logo > div{
+        height: 13px;
+    }
+    .principal #logo .color1 p{
+        font-size: 7px;
+    }
+    h1, h2, h3, h4, h5, h6{
+        font-size: 18px;
+        line-height: 17px;
+    }
+    .principal #logo .color2{
+        width: 4px;
+    }
+    .principal #logo .color3{
+        width: 3px;
+    }
+    .imagenes{
+        width: 100%;
+        height: 100px;
+    }
+    .imagenes > img{
+        height: 103px;
+        width: 33%;
+    }
+    .parraimg2 {
+        margin-top: -1%;
+        font-size: 7px;
+    }
+    .efren{
+        display: block;
+    }
+    .tabla2 .uno21 > p{
+        font-size: 10px;
+        line-height: 37px;
+    }
+    .tabla2 .uno22 > p{
+        font-size: 11px;
+        line-height: 11px;
+    }
+    .tabla2 .uno21 > p:nth-child(2) {
+        margin: 55% 0 52% 0;
+        padding: 0;
+    }
+    .p3f {
+        font-size: 8px;
+    }
+    .tabla4 > div:nth-child(2) p{
+        font-size: 10px;
+        line-height: 13px;
+    }
+    .principal {
+        line-height: 21px;
+    }
+}
+@media (min-width:450px) and (max-width: 575.98px) {
+    *{
+        font-size: 18px;
+    }
+    .principal #logo > div{
+        height: 13px;
+    }
+    .principal #logo .color1 p{
+        font-size: 7px;
+    }
+    h1, h2, h3, h4, h5, h6{
+        font-size: 23px;
+        line-height: 24px;
+    }
+    .principal #logo .color2{
+        width: 4px;
+    }
+    .principal #logo .color3{
+        width: 3px;
+    }
+    .imagenes{
+        width: 100%;
+        height: 100px;
+    }
+    .imagenes > img{
+        height: 103px;
+        width: 33%;
+    }
+    .parraimg2 {
+        margin-top: -1%;
+        font-size: 7px;
+    }
+    .efren{
+        display: block;
+    }
+    .tabla2 .uno21 > p{
+        font-size: 10px;
+        line-height: 37px;
+    }
+    .tabla2 .uno22 > p{
+        font-size: 10px;
+        line-height: 11px;
+    }
+    .tabla2 .uno21 > p:nth-child(2) {
+        margin: 36% 0 34% 0;
+        padding: 0;
+    }
+    .p3f {
+        font-size: 8px;
+    }
+    .tabla4 > div:nth-child(2) p{
+        font-size: 10px;
+        line-height: 10px;
+    }
+    .principal {
+        line-height: 21px;
+    }
+}
+@media (min-width: 576px) and (max-width: 767.98px){
+    *{
+        font-size: 20px;
+    }
+    .principal #logo > div{
+        height: 23px;
+    }
+    .principal #logo .color1 p{
+        font-size: 11px;
+    }
+    h1, h2, h3, h4, h5, h6{
+        font-size: 31px;
+        line-height: 32px;
+    }
+    .principal #logo .color2{
+        width: 4px;
+    }
+    .principal #logo .color3{
+        width: 3px;
+    }
+    .imagenes{
+        width: 100%;
+        height: 100px;
+    }
+    .imagenes > img{
+        height: 103px;
+        width: 33%;
+    }
+    .parraimg2 {
+        margin-top: -1%;
+        font-size: 7px;
+    }
+    .efren{
+        display: block;
+    }
+    .tabla2 .uno21 > p{
+        font-size: 13px;
+        line-height: 37px;
+    }
+    .tabla2 .uno22 > p{
+        font-size: 12px;
+        line-height: 13px;
+    }
+    .tabla2 .uno21 > p:nth-child(2) {
+        margin: 41% 0 32% 0;
+        padding: 0;
+    }
+    .p3f {
+        font-size: 8px;
+    }
+    .tabla4 > div:nth-child(2) p{
+        font-size: 12px;
+        line-height: 12px;
+    }
+    .tabla4 > div:nth-child(1) {
+       font-size: 3px;
+    }
+    .principal {
+        line-height: 21px;
+    }
+}
+@media (min-width: 768px) and (max-width: 991.98px){
+    *{
+        font-size: 20px;
+    }
+    .principal #logo > div{
+        height: 29px;
+    }
+    .principal #logo .color1 p{
+        font-size: 13px;
+    }
+    h1, h2, h3, h4, h5, h6{
+        font-size: 31px;
+        line-height: 32px;
+    }
+    .principal #logo .color2{
+        width: 8px;
+    }
+    .principal #logo .color3{
+        width: 6px;
+    }
+    .imagenes{
+        width: 100%;
+        height: 160px;
+    }
+    .imagenes > img{
+        height: 160px;
+        width: 33%;
+    }
+    .parraimg2 {
+        margin-top: -1%;
+        font-size: 7px;
+    }
+    .efren{
+        display: block;
+    }
+    .tabla2 .uno21 > p{
+        font-size: 17px;
+        line-height: 37px;
+    }
+    .tabla2 .uno22 > p{
+        font-size: 20px;
+        line-height: 20px;
+    }
+    .tabla2 .uno21 > p:nth-child(2) {
+        margin: 41% 0 32% 0;
+        padding: 0;
+    }
+    .p3f {
+        font-size: 8px;
+    }
+    .tabla4 > div:nth-child(2) p{
+        font-size: 13px;
+        line-height: 18px;
+    }
+    .tabla4 > div:nth-child(1) {
+       font-size: 3px;
+    }
+    .principal {
+        line-height: 21px;
+    }
+}
+@media (min-width: 992px) and (max-width: 1199.98px){
+        *{
+        font-size: 23px;
+    }
+    .principal #logo > div{
+        height: 30px;
+    }
+    .principal #logo .color1 p{
+        font-size: 14px;
+    }
+    h1, h2, h3, h4, h5, h6{
+        font-size: 31px;
+        line-height: 32px;
+    }
+    .principal #logo .color2{
+        width: 9px;
+    }
+    .principal #logo .color3{
+        width: 7px;
+    }
+    .imagenes{
+        width: 100%;
+        height: 200px;
+    }
+    .imagenes > img{
+        height: 200px;
+        width: 33%;
+    }
+    .parraimg2 {
+        margin-top: -1%;
+        font-size: 7px;
+    }
+    .efren{
+        display: block;
+    }
+    .tabla2 .uno21 > p{
+        font-size: 19px;
+        line-height: 37px;
+    }
+    .tabla2 .uno22 > p{
+        font-size: 18px;
+        line-height: 20px;
+    }
+    .tabla2 .uno21 > p:nth-child(2) {
+        margin: 41% 0 32% 0;
+        padding: 0;
+    }
+    .p3f {
+        font-size: 12px;
+    }
+    .tabla4 > div:nth-child(2) p{
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .tabla4 > div:nth-child(1) {
+       font-size: 3px;
+    }
+    .principal {
+        line-height: 26px;
+    }
+}
+@media (min-width: 1200px) and (max-width: 1399.98px){
+        *{
+        font-size: 20px;
+    }
+    .principal #logo > div{
+        height: 28px;
+    }
+    .principal #logo .color1 p{
+        font-size: 11px;
+    }
+    h1, h2, h3, h4, h5, h6{
+        font-size: 31px;
+        line-height: 32px;
+    }
+    .principal #logo .color2{
+        width: 10px;
+    }
+    .principal #logo .color3{
+        width: 7px;
+    }
+    .imagenes{
+        width: 100%;
+        height: 220px;
+    }
+    .imagenes > img{
+        height: 220px;
+        width: 33%;
+    }
+    .parraimg2 {
+        margin-top: -1%;
+        font-size: 7px;
+    }
+    .efren{
+        display: block;
+    }
+    .tabla2 .uno21 > p{
+        font-size: 19px;
+        line-height: 37px;
+    }
+    .tabla2 .uno22 > p{
+        font-size: 20px;
+        line-height: 20px;
+    }
+    .tabla2 .uno21 > p:nth-child(2) {
+        margin: 41% 0 32% 0;
+        padding: 0;
+    }
+    .p3f {
+        font-size: 8px;
+    }
+    .tabla4 > div:nth-child(2) p{
+        font-size: 21px;
+        line-height: 25px;
+    }
+    .tabla4 > div:nth-child(1) p:nth-child(5){
+        margin-top: 85%;
+    }
+    .tabla4 > div:nth-child(1) {
+       font-size: 3px;
+    }
+    .principal {
+        line-height: 21px;
+    }
+}
+@media (min-width: 1400px) and (max-width:1699.98px){
+        *{
+        font-size: 28px;
+    }
+    .principal #logo > div{
+        height: 32px;
+    }
+    .principal #logo .color1 p{
+        font-size: 16px;
+    }
+    h1, h2, h3, h4, h5, h6{
+        font-size: 31px;
+        line-height: 32px;
+    }
+    .principal #logo .color2{
+        width: 9px;
+    }
+    .principal #logo .color3{
+        width: 6px;
+    }
+    .imagenes{
+        width: 100%;
+        height: 240px;
+    }
+    .imagenes > img{
+        height: 240px;
+        width: 33%;
+    }
+    .parraimg2 {
+        margin-top: -1%;
+        font-size: 11px;
+    }
+    .efren{
+        display: none;
+    }
+    .tabla2 .uno21 > p{
+        font-size: 22px;
+        line-height: 37px;
+    }
+    .tabla2 .uno22 > p{
+        font-size: 25px;
+        line-height: 27px;
+    }
+    .tabla2 .uno21 > p:nth-child(2) {
+        margin: 41% 0 32% 0;
+        padding: 0;
+    }
+    .p3f {
+        font-size: 8px;
+    }
+    .tabla4 > div:nth-child(2) p{
+        font-size: 21px;
+        line-height: 25px;
+    }
+    .tabla4 > div:nth-child(1) {
+       font-size: 3px;
+    }
+    .efren1{
+        display: block;
+        font-size: 18px;
+    }
+    .principal {
+        line-height: 32px;
+    }
+}
+@media (min-width: 1700px) and (max-width:1999.98px){
+    *{
+        font-size: 27px;
+    }
+    .principal #logo > div{
+        height: 32px;
+    }
+    .principal #logo .color1 p{
+        font-size: 16px;
+    }
+    h1, h2, h3, h4, h5, h6{
+        font-size: 31px;
+        line-height: 32px;
+    }
+    .principal #logo .color2{
+        width: 9px;
+    }
+    .principal #logo .color3{
+        width: 6px;
+    }
+    .imagenes{
+        width: 100%;
+        height: 330px;
+    }
+    .imagenes > img{
+        height: 330px;
+        width: 33%;
+    }
+    .parraimg2 {
+        margin-top: -1%;
+        font-size: 11px;
+    }
+    .efren{
+        display: none;
+    }
+    .tabla2 .uno21 > p{
+        font-size: 24px;
+    }
+    .tabla2 .uno22 > p{
+        font-size: 28px;
+        line-height: 28px;
+    }
+    .tabla2 .uno21 > p:nth-child(2) {
+        margin: 41% 0 32% 0;
+        padding: 0;
+    }
+    .p3f {
+        font-size: 8px;
+    }
+    .tabla4 > div:nth-child(2) p{
+        font-size: 21px;
+        line-height: 25px;
+    }
+    .tabla4 > div:nth-child(1) {
+       font-size: 3px;
+    }
+    .efren1{
+        display: block;
+        font-size: 22px;
+    }
+    .principal {
+        line-height: 32px;
+    }
+    .parrafo1 .texto2 p {
+        width: 100%;
+        margin: 0;
+        font-size: 22.5px;
+        line-height: 23px;
+    }
+    p{
+        font-size: 26px;
+        line-height: 32px;
+    }
+}
+@media (min-width: 2000px){
+    *{
+        font-size: 33px;
+        line-height: 40px;
+    }
+    .principal #logo > div{
+        height: 55px;
+    }
+    .principal #logo .color1 p{
+        font-size: 25px;
+    }
+    h1, h2, h3, h4, h5, h6{
+        font-size: 60px;
+        line-height: 53px;
+    }
+    .principal #logo .color2{
+        width: 13px;
+    }
+    .principal #logo .color3{
+        width: 9px;
+    }
+    .imagenes{
+        width: 100%;
+        height: 337px;
+    }
+    .imagenes > img{
+        height: 377px;
+        width: 33%;
+    }
+    .parraimg2 {
+        margin-top: -1%;
+        font-size: 11px;
+    }
+    .efren{
+        display: none;
+    }
+    .tabla2 .uno21 > p{
+        font-size: 32px;
+    }
+    .tabla2 .uno22 > p{
+        font-size: 30px;
+        line-height: 28px;
+    }
+    .tabla2 .uno21 > p:nth-child(2) {
+        margin: 41% 0 32% 0;
+        padding: 0;
+    }
+    .p3f {
+        font-size: 8px;
+    }
+    .tabla4 > div:nth-child(2) p{
+        font-size: 28px;
+        line-height: 29px;
+    }
+    .tabla4 > div:nth-child(1) {
+       font-size: 3px;
+    }
+    .efren1{
+        display: block;
+        font-size: 28px;
+    }
+    .imagenes2{
+        width: 50%;
+    }
+    .principal {
+        line-height: 33px;
+    }
+    .parrafo1 .texto2 p {
+        width: 100%;
+        margin: 0;
+        font-size: 18.5px;
+        line-height: 21px;
+    }
+    p{
+        font-size: 35px;
+        line-height: 40px;
+    }
+}
